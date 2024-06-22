@@ -2,11 +2,6 @@
 
 This component provides a basic outline with minimal styling. To ensure it matches your design specifications, additional custom styling may be required.
 
-# Step 1:
-Copy sections/faq.liquid to your theme sections folder.
-#Step 2: 
-Copy assets/faq.js to your theme assets folder.
-
 # Preview
 
 ![image](https://github.com/nishant-k-marmeto/my-components-faq/assets/144011719/0617f38f-fba7-43d1-8454-998a557c3f62)
@@ -38,10 +33,10 @@ Copy assets/faq.js to your theme assets folder.
 ## Implementation Steps
 
  - ### Step 1: 
-   Create a section named `marmeto-image-text.liquid` under `sections directory` and copy paste the section code
+   Copy sections/faq.liquid to your theme sections folder.
    
  - ### Step 2: 
-   Create a section named `marmeto-image.liquid` under `snippets directory` and copy paste the snippet code
+ Copy assets/faq.js to your theme assets folder.
      
 
 # Important Notes
